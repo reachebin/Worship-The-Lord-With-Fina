@@ -37,7 +37,7 @@ header{
 .logo{
   font-weight: 900;
   letter-spacing: 1px;
-  font-size: 20px;          /* increase size */
+  font-size: 30px;          /* increase size */
   text-transform: uppercase; /* forces caps even if you forget */
   color: var(--accent);
 }
@@ -140,3 +140,4 @@ input::placeholder, textarea::placeholder{ color: rgba(245,243,255,0.55); }
   .grid3{ grid-template-columns: 1fr; }
 
 }
+
